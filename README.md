@@ -26,7 +26,12 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 Users should be able to:
 
-- See hover states for interactive elements
+- See hover states for interactive elements;
+
+The designs were created to the following widths:
+
+- Mobile: 375px
+- Desktop: 1440px
 
 ### Screenshot
 
