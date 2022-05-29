@@ -1,0 +1,27 @@
+.container {
+    width: 100vw;
+    height: 95vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    background-color: var(--white);
+    width: 100vw; /* temporary */
+    margin: 0 1.5rem;
+    border-radius: 1.5rem;
+    padding: 2.5rem;
+}
+
+.card-illustration {
+    height: 10rem;
+}
+
+.card-text-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
