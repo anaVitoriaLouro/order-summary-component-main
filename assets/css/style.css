@@ -8,10 +8,10 @@
 
 .card {
     background-color: var(--white);
-    width: 100vw; /* temporary */
+    width: 75vw; /* temporary */
     margin: 0 1.5rem;
     border-radius: 1.5rem;
-    padding: 2.5rem;
+    padding: 1.5rem;
 }
 
 .card-illustration {
@@ -27,7 +27,7 @@
 
 .title {
     margin-top: 1.7rem;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     font-weight: 900;
     color: var(--dark-blue);
 }
@@ -36,7 +36,39 @@
     margin-top: 1.7rem;
     line-height: 1.7rem;
     text-align: center;
-    font-size: 1.2rem;
+    font-size: 1rem;
+    color: var(--desaturated-blue);
+}
+
+.container-user-plan {
+    background-color: var(--very-pale-blue);
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    padding: 1rem;
+    margin-top: 1.7rem;
+    border-radius: 10px;
+}
+
+.music-icon {
+    height: 3rem;
+}
+
+.container-user-plan-type {
+    display: flex;
+    flex-direction: column;
+    line-height: 1.7rem;
+    margin-right: 1.5rem;
+}
+
+.user-plan-type {
+    font-weight: 900;
+    color: var(--dark-blue);
+    font-size: .9rem;
+}
+
+.plan-price {
+    font-size: .9rem;
     color: var(--desaturated-blue);
 }
 
