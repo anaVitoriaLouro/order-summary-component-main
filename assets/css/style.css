@@ -7,22 +7,25 @@
 }
 
 .card {
+    background: url("../images/illustration-hero.svg");
+    background-repeat: no-repeat;
+    background-size: 330px;
     background-color: var(--white);
+    height: 75vh;
     width: 75vw; /* temporary */
     margin: 0 1.5rem;
     border-radius: 1.5rem;
     padding: 1.5rem;
+    box-shadow: 7px 7px 13px 0px  hsl(225, 18%, 54%);
 }
 
-.card-illustration {
-    height: 10rem;
-}
 
 .card-text-content {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin-top: 9rem;
 }
 
 .title {
@@ -70,5 +73,13 @@
 .plan-price {
     font-size: .9rem;
     color: var(--desaturated-blue);
+}
+
+.container-user-plan a {
+    display: flex;
+    align-items: center;
+    font-size: .9rem;
+    color: var(--bright-blue);
+    font-weight: 700;
 }
 
