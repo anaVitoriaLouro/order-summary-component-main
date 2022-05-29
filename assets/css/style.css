@@ -25,3 +25,18 @@
     align-items: center;
 }
 
+.title {
+    margin-top: 1.7rem;
+    font-size: 1.5rem;
+    font-weight: 900;
+    color: var(--dark-blue);
+}
+
+.product-description {
+    margin-top: 1.7rem;
+    line-height: 1.7rem;
+    text-align: center;
+    font-size: 1.2rem;
+    color: var(--desaturated-blue);
+}
+
