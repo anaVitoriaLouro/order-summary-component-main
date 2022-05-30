@@ -83,6 +83,10 @@
     font-weight: 700;
 }
 
+.container-user-plan a:hover {
+    color: var(--purple);
+}
+
 .container-buttons {
     display: flex;
     flex-direction: column;
@@ -100,6 +104,10 @@
     box-shadow: 7px 7px 13px 0px  hsl(225, 18%, 54%);
 }
 
+.pay-button:hover {
+    background-color: var(--purple);
+}
+
 .cancel-button {
     background: none;
     padding: .9rem;
@@ -108,6 +116,10 @@
     color: var(--desaturated-blue);
     font-weight: 700;
     margin-top: .5rem;
+}
+
+.cancel-button:hover {
+    color: var(--dark-blue);
 }
 
 .attribution {
