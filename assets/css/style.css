@@ -11,7 +11,7 @@
     background-repeat: no-repeat;
     background-size: 330px;
     background-color: var(--white);
-    height: 75vh;
+    height: 80vh; /*temporary */
     width: 75vw; /* temporary */
     margin: 0 1.5rem;
     border-radius: 1.5rem;
@@ -39,7 +39,7 @@
     margin-top: 1.7rem;
     line-height: 1.7rem;
     text-align: center;
-    font-size: 1rem;
+    font-size: 17px;
     color: var(--desaturated-blue);
 }
 
@@ -81,5 +81,33 @@
     font-size: .9rem;
     color: var(--bright-blue);
     font-weight: 700;
+}
+
+.container-buttons {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 1.7rem;
+}
+
+.pay-button {
+    background-color: var(--bright-blue);
+    padding: .9rem;
+    border-radius: 10px;
+    border: none;
+    color: var(--white);
+    font-weight: 700;
+    box-shadow: 7px 7px 13px 0px  hsl(225, 18%, 54%);
+    /* font-size: 18px; */
+}
+
+.cancel-button {
+    background: none;
+    padding: .9rem;
+    border-radius: 10px;
+    border: none;
+    color: var(--desaturated-blue);
+    font-weight: 700;
+    margin-top: .5rem;
 }
 
