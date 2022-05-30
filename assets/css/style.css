@@ -9,7 +9,7 @@
 .card {
     background: url("../images/illustration-hero.svg");
     background-repeat: no-repeat;
-    background-size: 330px;
+    background-size: 100%;
     background-color: var(--white);
     height: 80vh; /*temporary */
     width: 75vw; /* temporary */
@@ -127,7 +127,7 @@
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    margin-top: 1.7rem;
+    margin-top: .3rem;
     color: var(--dark-blue);
     letter-spacing: 1.5px;
  
