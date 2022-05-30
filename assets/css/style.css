@@ -1,6 +1,6 @@
 .container {
     width: 100vw;
-    height: 95vh;
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -11,7 +11,7 @@
     background-repeat: no-repeat;
     background-size: 100%;
     background-color: var(--white);
-    height: 80vh; /*temporary */
+    height: 85vh; /*temporary */
     width: 75vw; /* temporary */
     margin: 0 1.5rem;
     border-radius: 1.5rem;
