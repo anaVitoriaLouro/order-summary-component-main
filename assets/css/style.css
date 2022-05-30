@@ -98,7 +98,6 @@
     color: var(--white);
     font-weight: 700;
     box-shadow: 7px 7px 13px 0px  hsl(225, 18%, 54%);
-    /* font-size: 18px; */
 }
 
 .cancel-button {
@@ -110,4 +109,20 @@
     font-weight: 700;
     margin-top: .5rem;
 }
+
+.attribution {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 1.7rem;
+    color: var(--dark-blue);
+    letter-spacing: 1.5px;
+ 
+}
+
+footer a {
+    color: var(--bright-blue);
+}
+
 
