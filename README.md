@@ -35,7 +35,11 @@ The designs were created to the following widths:
 
 ### Screenshot
 
-- Under Construction
+- Mobile Design
+![mobile-design](https://user-images.githubusercontent.com/97908745/171224107-cee9eb95-64be-4a80-bf08-0c96e8e385d9.png)
+
+- Desktop Design
+![desktop-design](https://user-images.githubusercontent.com/97908745/171224210-9f605125-068d-4fb7-a64e-2c53e499d5aa.png)
 
 ## My process
 
@@ -49,12 +53,13 @@ The designs were created to the following widths:
 
 ### What I learned
 
-- Under Construction
+This project is part of a challenge to my personal and professional growth.
 
-### Continued development
+The main objective was to practice already learned HTML and CSS concepts and, of course, learn new things about it to make nice designs with simple and reusable code.
 
-- Under Construction
 
 ## Author
 
-- Under Construction
+My name is Ana Vitória and I started my studies in 2021, mostly self-taught.
+
+For more professional information you can find me on Linkedin.
